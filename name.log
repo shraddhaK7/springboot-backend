@@ -1,0 +1,408 @@
+"2019-10-17 00:00:12 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m19s850ms357µs900ns).
+""2019-10-17 00:06:18 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m5s996ms144µs900ns).
+""2019-10-17 00:10:18 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m310ms719µs).
+""2019-10-17 00:20:08 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m49s913ms323µs).
+""2019-10-17 00:24:55 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m47s381ms572µs800ns).
+""2019-10-17 00:31:07 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m8s213ms286µs).
+""2019-10-17 00:35:03 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m55s898ms883µs100ns).
+""2019-10-17 00:38:20 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s242ms412µs300ns).
+""2019-10-17 00:42:20 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m162ms786µs100ns).
+""2019-10-17 00:45:40 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m20s161ms512µs300ns).
+""2019-10-17 00:49:12 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m32s10ms299µs500ns).
+""2019-10-17 00:55:03 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m51s129ms961µs100ns).
+""2019-10-17 00:59:48 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m45s180ms229µs600ns).
+""2019-10-17 01:03:41 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m52s420ms860µs100ns).
+""2019-10-17 01:07:26 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m45s656ms694µs500ns).
+""2019-10-17 01:14:07 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m41s210ms130µs500ns).
+""2019-10-17 01:19:12 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m5s347ms924µs500ns).
+""2019-10-17 01:22:30 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s885ms296µs).
+""2019-10-17 01:30:29 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m59s125ms375µs800ns).
+""2019-10-17 01:34:14 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m44s404ms113µs600ns).
+""2019-10-17 01:38:31 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m17s973ms164µs400ns).
+""2019-10-17 01:41:53 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s174ms793µs300ns).
+""2019-10-17 01:45:11 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s978ms551µs).
+""2019-10-17 01:52:11 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m206ms829µs600ns).
+""2019-10-17 01:56:45 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m34s116ms948µs700ns).
+""2019-10-17 02:01:03 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m17s879ms383µs800ns).
+""2019-10-17 02:05:14 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m11s341ms945µs400ns).
+""2019-10-17 02:08:56 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m41s252ms298µs900ns).
+""2019-10-17 02:12:46 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m50s137ms162µs).
+""2019-10-17 02:17:16 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m30s975ms978µs).
+""2019-10-17 02:20:42 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m26s148ms682µs700ns).
+""2019-10-17 02:25:00 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m17s251ms27µs200ns).
+""2019-10-17 02:28:25 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m25s224ms179µs).
+""2019-10-17 02:34:16 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m51s913ms348µs400ns).
+""2019-10-17 02:40:17 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m172ms847µs800ns).
+""2019-10-17 02:43:40 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s138ms492µs800ns).
+""2019-10-17 02:47:53 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m13s108ms301µs100ns).
+""2019-10-17 02:53:23 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m31s52ms4µs400ns).
+""2019-10-17 02:56:50 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m26s941ms501µs).
+""2019-10-17 03:00:46 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m55s829ms135µs900ns).
+""2019-10-17 03:05:25 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m38s681ms617µs900ns).
+""2019-10-17 03:08:47 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s162ms663µs).
+""2019-10-17 03:13:51 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m4s257ms681µs900ns).
+""2019-10-17 03:17:29 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s176ms874µs200ns).
+""2019-10-17 03:22:31 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m2s213ms250µs401ns).
+""2019-10-17 03:26:04 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m32s762ms576µs400ns).
+""2019-10-17 03:32:45 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m41s420ms707µs900ns).
+""2019-10-17 03:36:31 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m46s546ms275µs200ns).
+""2019-10-17 03:43:52 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m20s615ms976µs199ns).
+""2019-10-17 03:49:32 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m39s885ms127µs401ns).
+""2019-10-17 03:53:18 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m46s454ms352µs).
+""2019-10-17 04:00:23 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s993ms898µs999ns).
+""2019-10-17 04:04:33 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m10s151ms240µs601ns).
+""2019-10-17 04:12:10 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m37s190ms539µs901ns).
+""2019-10-17 04:20:24 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m14s1ms847µs300ns).
+""2019-10-17 04:24:22 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m58s386ms904µs200ns).
+""2019-10-17 04:27:39 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m16s679ms327µs400ns).
+""2019-10-17 04:31:22 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m43s573ms470µs399ns).
+""2019-10-17 04:34:56 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m33s922ms282µs301ns).
+""2019-10-17 04:39:27 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m31s133ms104µs800ns).
+""2019-10-17 04:46:23 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m56s156ms915µs100ns).
+""2019-10-17 04:53:03 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m39s951ms751µs900ns).
+""2019-10-17 04:57:50 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m47s394ms791µs500ns).
+""2019-10-17 05:02:45 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m55s13ms640µs600ns).
+""2019-10-17 05:06:48 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m3s673ms385µs).
+""2019-10-17 05:19:37 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m48s604ms608µs100ns).
+""2019-10-17 05:24:50 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m13s249ms903µs300ns).
+""2019-10-17 05:32:17 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m27s209ms621µs600ns).
+""2019-10-17 05:36:10 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m53s48ms687µs600ns).
+""2019-10-17 05:40:21 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m11s133ms944µs400ns).
+""2019-10-17 05:43:43 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m21s956ms531µs300ns).
+""2019-10-17 05:49:01 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m18s452ms154µs400ns).
+""2019-10-17 05:52:20 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m18s940ms263µs700ns).
+""2019-10-17 05:55:42 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s206ms483µs700ns).
+""2019-10-17 06:02:22 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m39s766ms85µs200ns).
+""2019-10-17 06:07:51 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m29s411ms746µs200ns).
+""2019-10-17 06:14:36 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m45s82ms351µs600ns).
+""2019-10-17 06:19:03 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s117ms905µs200ns).
+""2019-10-17 06:35:22 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m19s296ms407µs800ns).
+""2019-10-17 06:42:04 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m41s921ms136µs).
+""2019-10-17 06:46:02 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m57s861ms595µs300ns).
+""2019-10-17 06:49:56 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m54s424ms65µs100ns).
+""2019-10-17 06:53:59 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m3s141ms10µs200ns).
+""2019-10-17 06:59:18 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m19s107ms578µs900ns).
+""2019-10-17 07:04:24 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m6s228ms250µs100ns).
+""2019-10-17 07:08:04 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m40s22ms979µs900ns).
+""2019-10-17 07:14:45 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m41s214ms694µs900ns).
+""2019-10-17 07:19:18 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m32s695ms782µs600ns).
+""2019-10-17 07:25:17 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m59s570ms911µs200ns).
+""2019-10-17 07:32:45 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m28s112ms268µs900ns).
+""2019-10-17 07:37:53 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m8s222ms825µs500ns).
+""2019-10-17 07:45:06 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m12s203ms158µs200ns).
+""2019-10-17 07:50:16 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m11s38ms889µs700ns).
+""2019-10-17 07:58:01 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m44s736ms852µs700ns).
+""2019-10-17 08:12:46 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m45s418ms768µs600ns).
+""2019-10-17 08:18:02 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m15s499ms905µs100ns).
+""2019-10-17 08:26:13 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m11s801ms859µs300ns).
+""2019-10-17 08:29:58 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m45s164ms509µs300ns).
+""2019-10-17 08:33:58 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m25ms563µs100ns).
+""2019-10-17 08:39:30 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m32s106ms462µs300ns).
+""2019-10-17 08:46:50 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m20s141ms18µs700ns).
+""2019-10-17 08:50:46 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m55s669ms439µs300ns).
+""2019-10-17 08:54:34 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m47s680ms397µs500ns).
+""2019-10-17 08:59:31 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m57s110ms849µs400ns).
+""2019-10-17 09:03:12 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m41s735ms768µs900ns).
+""2019-10-17 09:11:04 [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m52s421ms808µs900ns).
+""2019-10-17 09:15:28 [http-nio-8080-exec-2] c.r.a.config.JwtRequestFilter  JWT Token does not begin with Bearer String
+""2019-10-17 09:48:06 [main] c.r.assignment.AssignmentApplication  Starting AssignmentApplication on HG-D17 with PID 27260 (D:\React-Assignment\Backend\assignment\target\classes started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 09:48:06 [main] c.r.assignment.AssignmentApplication  No active profile set, falling back to default profiles: default
+""2019-10-17 09:48:07 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 09:48:07 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 85ms. Found 4 repository interfaces.
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fa20063e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$92cdce78] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6b4283c4' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$b7a2712a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 09:48:08 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat initialized with port(s): 8080 (http)
+""2019-10-17 09:48:08 [main] o.a.catalina.core.StandardService  Starting service [Tomcat]
+""2019-10-17 09:48:08 [main] o.a.catalina.core.StandardEngine  Starting Servlet engine: [Apache Tomcat/9.0.24]
+""2019-10-17 09:48:08 [main] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring embedded WebApplicationContext
+""2019-10-17 09:48:08 [main] o.s.web.context.ContextLoader  Root WebApplicationContext: initialization completed in 2027 ms
+""2019-10-17 09:48:09 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 09:48:09 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 09:48:09 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 09:48:09 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 09:48:09 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 09:48:09 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 09:48:09 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 09:48:10 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@6c19769c'
+""2019-10-17 09:48:10 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 09:48:11 [main] o.s.s.web.DefaultSecurityFilterChain  Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@799fc4c9, org.springframework.security.web.context.SecurityContextPersistenceFilter@55821edf, org.springframework.security.web.header.HeaderWriterFilter@7a600e21, org.springframework.security.web.authentication.logout.LogoutFilter@5d515e2c, com.reactbackend.assignment.config.JwtRequestFilter@5eba9e41, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@658098a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@755009f2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@44428583, org.springframework.security.web.session.SessionManagementFilter@602b7944, org.springframework.security.web.access.ExceptionTranslationFilter@ea45a5b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2cb53bfc]
+""2019-10-17 09:48:12 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 09:48:12 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 09:48:12 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat started on port(s): 8080 (http) with context path ''
+""2019-10-17 09:48:12 [main] c.r.assignment.AssignmentApplication  Started AssignmentApplication in 6.161 seconds (JVM running for 6.817)
+""2019-10-17 09:48:41 [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-10-17 09:48:41 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet  Initializing Servlet 'dispatcherServlet'
+""2019-10-17 09:48:41 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet  Completed initialization in 18 ms
+""2019-10-17 09:48:41 [http-nio-8080-exec-2] c.r.a.config.JwtRequestFilter  JWT Token does not begin with Bearer String
+""2019-10-17 09:48:42 [http-nio-8080-exec-2] o.h.h.i.QueryTranslatorFactoryInitiator  HHH000397: Using ASTQueryTranslatorFactory
+""2019-10-17 09:48:47 [http-nio-8080-exec-3] c.r.a.config.JwtRequestFilter  JWT Token does not begin with Bearer String
+""2019-10-17 09:49:06 [http-nio-8080-exec-4] c.r.a.config.JwtRequestFilter  JWT Token does not begin with Bearer String
+""2019-10-17 10:19:19 [main] c.r.a.AssignmentApplicationTests  Starting AssignmentApplicationTests on HG-D17 with PID 11032 (started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:19:19 [main] c.r.a.AssignmentApplicationTests  No active profile set, falling back to default profiles: default
+""2019-10-17 10:19:20 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:19:20 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 104ms. Found 4 repository interfaces.
+""2019-10-17 10:19:20 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$851d1216] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:19:21 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:19:21 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:19:21 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:19:21 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:19:21 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:19:21 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:19:21 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:19:22 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3711c71c'
+""2019-10-17 10:19:22 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:19:23 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:19:23 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:19:24 [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration  
+
+Using generated security password: 6159a3d0-1c63-483e-ba40-eca1ecd4adc5
+
+""2019-10-17 10:19:24 [main] o.s.s.web.DefaultSecurityFilterChain  Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3ec082a1, org.springframework.security.web.context.SecurityContextPersistenceFilter@47ef5a33, org.springframework.security.web.header.HeaderWriterFilter@6697f3d, org.springframework.security.web.csrf.CsrfFilter@70d687b8, org.springframework.security.web.authentication.logout.LogoutFilter@3ba46845, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@208e5b23, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2e85e3f1, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7a3c99f1, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1a01ffff, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@28f90752, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27e21083, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@16b7e04a, org.springframework.security.web.session.SessionManagementFilter@3a72e2e8, org.springframework.security.web.access.ExceptionTranslationFilter@e0847a9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7bdb4f17]
+""2019-10-17 10:19:24 [main] c.r.a.AssignmentApplicationTests  Started AssignmentApplicationTests in 5.546 seconds (JVM running for 6.411)
+""2019-10-17 10:19:25 [Thread-2] o.s.s.c.ThreadPoolTaskExecutor  Shutting down ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:19:25 [Thread-2] o.s.o.j.LocalContainerEntityManagerFactoryBean  Closing JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:19:25 [Thread-2] o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl  HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+""2019-10-17 10:19:25 [Thread-2] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Shutdown initiated...
+""2019-10-17 10:19:25 [Thread-2] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Shutdown completed.
+""2019-10-17 10:21:44 [main] c.r.assignment.AssignmentApplication  Starting AssignmentApplication on HG-D17 with PID 25488 (D:\React-Assignment\Backend\assignment\target\classes started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:21:44 [main] c.r.assignment.AssignmentApplication  No active profile set, falling back to default profiles: default
+""2019-10-17 10:21:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:21:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 68ms. Found 4 repository interfaces.
+""2019-10-17 10:21:45 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$14870bc1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:21:45 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat initialized with port(s): 8080 (http)
+""2019-10-17 10:21:46 [main] o.a.catalina.core.StandardService  Starting service [Tomcat]
+""2019-10-17 10:21:46 [main] o.a.catalina.core.StandardEngine  Starting Servlet engine: [Apache Tomcat/9.0.24]
+""2019-10-17 10:21:46 [main] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring embedded WebApplicationContext
+""2019-10-17 10:21:46 [main] o.s.web.context.ContextLoader  Root WebApplicationContext: initialization completed in 1681 ms
+""2019-10-17 10:21:46 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:21:46 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:21:46 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:21:46 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:21:46 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:21:46 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:21:47 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:21:47 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@5384ce66'
+""2019-10-17 10:21:47 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:21:48 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:21:48 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:21:48 [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration  
+
+Using generated security password: e3d4875a-542d-4a0c-b7d7-3d9612b91ce1
+
+""2019-10-17 10:21:48 [main] o.s.s.web.DefaultSecurityFilterChain  Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1857fe6c, org.springframework.security.web.context.SecurityContextPersistenceFilter@401926df, org.springframework.security.web.header.HeaderWriterFilter@28ce75ec, org.springframework.security.web.csrf.CsrfFilter@604c7e9b, org.springframework.security.web.authentication.logout.LogoutFilter@9e50283, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@401ec794, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6f7a20da, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@44976b08, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@750e2d33, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@550fa96f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@16ccd2bc, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@29b8df5, org.springframework.security.web.session.SessionManagementFilter@9dc782d, org.springframework.security.web.access.ExceptionTranslationFilter@5e541ef9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@dd20ebc]
+""2019-10-17 10:21:48 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat started on port(s): 8080 (http) with context path ''
+""2019-10-17 10:21:48 [main] c.r.assignment.AssignmentApplication  Started AssignmentApplication in 4.911 seconds (JVM running for 5.401)
+""2019-10-17 10:29:22 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-10-17 10:29:22 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Initializing Servlet 'dispatcherServlet'
+""2019-10-17 10:29:22 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Completed initialization in 12 ms
+""2019-10-17 10:30:45 [main] c.r.assignment.AssignmentApplication  Starting AssignmentApplication on HG-D17 with PID 30088 (D:\React-Assignment\Backend\assignment\target\classes started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:30:45 [main] c.r.assignment.AssignmentApplication  No active profile set, falling back to default profiles: default
+""2019-10-17 10:30:47 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:30:47 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 78ms. Found 4 repository interfaces.
+""2019-10-17 10:30:47 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b6eb971f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:30:48 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat initialized with port(s): 8080 (http)
+""2019-10-17 10:30:48 [main] o.a.catalina.core.StandardService  Starting service [Tomcat]
+""2019-10-17 10:30:48 [main] o.a.catalina.core.StandardEngine  Starting Servlet engine: [Apache Tomcat/9.0.24]
+""2019-10-17 10:30:48 [main] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring embedded WebApplicationContext
+""2019-10-17 10:30:48 [main] o.s.web.context.ContextLoader  Root WebApplicationContext: initialization completed in 2704 ms
+""2019-10-17 10:30:48 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:30:48 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:30:48 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:30:48 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:30:48 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:30:48 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:30:49 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:30:49 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@25b20860'
+""2019-10-17 10:30:49 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:31:03 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:31:05 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:31:18 [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration  
+
+Using generated security password: 94b3807c-aa05-4d17-837d-de90808fc2fd
+
+""2019-10-17 10:31:21 [main] o.s.s.web.DefaultSecurityFilterChain  Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@be9cc86, org.springframework.security.web.context.SecurityContextPersistenceFilter@4c599679, org.springframework.security.web.header.HeaderWriterFilter@3a012678, org.springframework.security.web.csrf.CsrfFilter@4880a9d, org.springframework.security.web.authentication.logout.LogoutFilter@583b4af4, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4930213b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@524dd373, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@68af8288, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6130a6f5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@f13e0a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4b552b13, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@8dc3019, org.springframework.security.web.session.SessionManagementFilter@1701beb3, org.springframework.security.web.access.ExceptionTranslationFilter@2681185e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@75df4b1d]
+""2019-10-17 10:31:25 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat started on port(s): 8080 (http) with context path ''
+""2019-10-17 10:31:25 [main] c.r.assignment.AssignmentApplication  Started AssignmentApplication in 40.076 seconds (JVM running for 40.645)
+""2019-10-17 10:31:59 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-10-17 10:31:59 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Initializing Servlet 'dispatcherServlet'
+""2019-10-17 10:31:59 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Completed initialization in 393 ms
+""2019-10-17 10:38:42 [main] c.r.assignment.AssignmentApplication  Starting AssignmentApplication on HG-D17 with PID 3956 (D:\React-Assignment\Backend\assignment\target\classes started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:38:42 [main] c.r.assignment.AssignmentApplication  No active profile set, falling back to default profiles: default
+""2019-10-17 10:38:43 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:38:43 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 73ms. Found 4 repository interfaces.
+""2019-10-17 10:38:44 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e6d85661] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:38:44 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat initialized with port(s): 8080 (http)
+""2019-10-17 10:38:44 [main] o.a.catalina.core.StandardService  Starting service [Tomcat]
+""2019-10-17 10:38:44 [main] o.a.catalina.core.StandardEngine  Starting Servlet engine: [Apache Tomcat/9.0.24]
+""2019-10-17 10:38:44 [main] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring embedded WebApplicationContext
+""2019-10-17 10:38:44 [main] o.s.web.context.ContextLoader  Root WebApplicationContext: initialization completed in 2005 ms
+""2019-10-17 10:38:45 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:38:45 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:38:45 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:38:45 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:38:45 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:38:45 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:38:45 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:38:46 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@771d4db'
+""2019-10-17 10:38:46 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:38:47 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:38:47 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:38:47 [main] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration  
+
+Using generated security password: 66967999-14b8-4750-b0aa-8bbad8c0e8af
+
+""2019-10-17 10:38:47 [main] o.s.s.web.DefaultSecurityFilterChain  Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7b4c793b, org.springframework.security.web.context.SecurityContextPersistenceFilter@386f88b3, org.springframework.security.web.header.HeaderWriterFilter@c4ca86a, org.springframework.security.web.csrf.CsrfFilter@33845e3d, org.springframework.security.web.authentication.logout.LogoutFilter@558ed473, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6b338591, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2f8ab988, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@51a69e8f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@44aa5585, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1885905b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2059c3ff, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6442cf3e, org.springframework.security.web.session.SessionManagementFilter@56351c02, org.springframework.security.web.access.ExceptionTranslationFilter@37d3e740, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@406decb2]
+""2019-10-17 10:38:47 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat started on port(s): 8080 (http) with context path ''
+""2019-10-17 10:38:47 [main] c.r.assignment.AssignmentApplication  Started AssignmentApplication in 6.713 seconds (JVM running for 7.313)
+""2019-10-17 10:40:07 [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-10-17 10:40:07 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet  Initializing Servlet 'dispatcherServlet'
+""2019-10-17 10:40:07 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet  Completed initialization in 12 ms
+""2019-10-17 10:43:32 [main] c.r.a.AssignmentApplicationTests  Starting AssignmentApplicationTests on HG-D17 with PID 21896 (started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:43:32 [main] c.r.a.AssignmentApplicationTests  No active profile set, falling back to default profiles: default
+""2019-10-17 10:43:32 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:43:33 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 73ms. Found 4 repository interfaces.
+""2019-10-17 10:43:33 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$29326757] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:43:33 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:43:33 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:43:33 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:43:34 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:43:34 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:43:34 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:43:34 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:43:35 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@71d55b7e'
+""2019-10-17 10:43:35 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:43:36 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:43:36 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:43:36 [main] c.r.a.AssignmentApplicationTests  Started AssignmentApplicationTests in 4.831 seconds (JVM running for 5.657)
+""2019-10-17 10:43:36 [Thread-2] o.s.s.c.ThreadPoolTaskExecutor  Shutting down ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:43:36 [Thread-2] o.s.o.j.LocalContainerEntityManagerFactoryBean  Closing JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:43:36 [Thread-2] o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl  HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+""2019-10-17 10:43:37 [Thread-2] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Shutdown initiated...
+""2019-10-17 10:43:37 [Thread-2] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Shutdown completed.
+""2019-10-17 10:43:47 [main] c.r.assignment.AssignmentApplication  Starting AssignmentApplication on HG-D17 with PID 5988 (D:\React-Assignment\Backend\assignment\target\classes started by Shraddha.Khilare in D:\React-Assignment\Backend\assignment)
+""2019-10-17 10:43:47 [main] c.r.assignment.AssignmentApplication  No active profile set, falling back to default profiles: default
+""2019-10-17 10:43:48 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-10-17 10:43:48 [main] o.s.d.r.c.RepositoryConfigurationDelegate  Finished Spring Data repository scanning in 76ms. Found 4 repository interfaces.
+""2019-10-17 10:43:49 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker  Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d62b3ae8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2019-10-17 10:43:49 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat initialized with port(s): 8080 (http)
+""2019-10-17 10:43:49 [main] o.a.catalina.core.StandardService  Starting service [Tomcat]
+""2019-10-17 10:43:49 [main] o.a.catalina.core.StandardEngine  Starting Servlet engine: [Apache Tomcat/9.0.24]
+""2019-10-17 10:43:49 [main] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring embedded WebApplicationContext
+""2019-10-17 10:43:49 [main] o.s.web.context.ContextLoader  Root WebApplicationContext: initialization completed in 1671 ms
+""2019-10-17 10:43:49 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Starting...
+""2019-10-17 10:43:50 [main] com.zaxxer.hikari.HikariDataSource  HikariPool-1 - Start completed.
+""2019-10-17 10:43:50 [main] o.h.jpa.internal.util.LogHelper  HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+""2019-10-17 10:43:50 [main] org.hibernate.Version  HHH000412: Hibernate Core {5.3.11.Final}
+""2019-10-17 10:43:50 [main] org.hibernate.cfg.Environment  HHH000206: hibernate.properties not found
+""2019-10-17 10:43:50 [main] o.h.annotations.common.Version  HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+""2019-10-17 10:43:50 [main] org.hibernate.dialect.Dialect  HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""2019-10-17 10:43:51 [main] o.h.t.s.internal.SchemaCreatorImpl  HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@614cd187'
+""2019-10-17 10:43:51 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean  Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2019-10-17 10:44:03 [main] o.s.s.c.ThreadPoolTaskExecutor  Initializing ExecutorService 'applicationTaskExecutor'
+""2019-10-17 10:44:05 [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration  spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-17 10:44:18 [main] o.s.b.w.e.tomcat.TomcatWebServer  Tomcat started on port(s): 8080 (http) with context path ''
+""2019-10-17 10:44:18 [main] c.r.assignment.AssignmentApplication  Started AssignmentApplication in 30.672 seconds (JVM running for 31.235)
+""2019-10-17 10:44:38 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]  Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-10-17 10:44:38 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Initializing Servlet 'dispatcherServlet'
+""2019-10-17 10:44:38 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet  Completed initialization in 418 ms
+""2019-10-17 10:44:39 [http-nio-8080-exec-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver  Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+""2019-10-17 10:45:02 [http-nio-8080-exec-3] o.h.h.i.QueryTranslatorFactoryInitiator  HHH000397: Using ASTQueryTranslatorFactory
+""2019-10-17 10:46:17 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:18 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:24 [http-nio-8080-exec-7] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:25 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:27 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:30 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:31 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:32 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:46:36 [http-nio-8080-exec-4] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 10:48:37 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:02:00 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:02:02 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:09:13 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:09:15 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:09:18 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:06 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:07 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:31 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:32 [http-nio-8080-exec-4] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:33 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:11:34 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:05 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:12 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:21 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:22 [http-nio-8080-exec-4] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:46 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:12:51 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:18 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:21 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:23 [http-nio-8080-exec-7] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:26 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:41 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:13:42 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:15:01 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:17:48 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:18:10 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:19:19 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:19:27 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:19:29 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:10 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:12 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:14 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:35 [http-nio-8080-exec-4] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:38 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:40 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:25:52 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:26:27 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:26:43 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:28:09 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:29:28 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:29:29 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:32:45 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:33:24 [http-nio-8080-exec-7] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:33:25 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:33:52 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:34:07 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:34:25 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:34:28 [http-nio-8080-exec-1] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:44:07 [http-nio-8080-exec-7] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:45:46 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:45:49 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:45:57 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:46:39 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:46:58 [http-nio-8080-exec-7] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:46:59 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:47:05 [http-nio-8080-exec-4] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:49:08 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:49:09 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:51:07 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:51:10 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:51:19 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:52:29 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:52:32 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:52:43 [http-nio-8080-exec-10] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:53:41 [http-nio-8080-exec-5] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:53:57 [http-nio-8080-exec-8] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:54:03 [http-nio-8080-exec-2] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:54:18 [http-nio-8080-exec-3] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:54:22 [http-nio-8080-exec-6] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+""2019-10-17 11:54:32 [http-nio-8080-exec-9] c.r.a.s.UserRegisterationServiceImpl  getRegisteredUsers() in UserRegisterationServiceImpl
+"
